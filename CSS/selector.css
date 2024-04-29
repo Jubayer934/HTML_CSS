@@ -1,0 +1,25 @@
+/* element selector
+h1 {
+    /* write */
+}
+
+/* class selctor */
+.clase_name {
+    /* write */
+}
+
+/* id slector */
+#Id_name {
+    /* write */
+}
+
+/* universel selector */
+*{
+    /* write */
+}
+
+/* Group Selector */
+h1, p, h2 {
+    /* write */
+}
+

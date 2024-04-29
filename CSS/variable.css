@@ -1,0 +1,8 @@
+:root {
+    --C: #00ff;
+    --F: 200px
+}
+p {
+    background-color: var(--C);
+    background-size: var(--F);
+}

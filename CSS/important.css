@@ -1,0 +1,15 @@
+button {
+    color: red !important;
+    border-radius: 6px;
+    background-color: black ;
+    padding: 3px;
+    border: 20px solid yellow;
+}
+
+button {
+    color: green;
+    border-radius: 6px;
+    background-color: yellow;
+    padding: 3px;
+    border: 20px solid yellow;
+}

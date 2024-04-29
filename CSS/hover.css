@@ -1,0 +1,12 @@
+button {
+    color: red;
+    border-radius: 6px;
+    background-color: black;
+    padding: 3px;
+    border: 20px solid yellow;
+}
+
+button:hover {
+    color: aliceblue;
+    background-color: aliceblue;
+}
